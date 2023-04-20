@@ -1,4 +1,4 @@
-link the browser sopping-app.surge.sh
+http://sopping-app.surge.sh/
 # Getting Started with Create React App
 
 
